@@ -1,0 +1,5 @@
+#project create through SHADCN
+#npm create vite@latest
+
+and after run : npx shadcn@latest init -t vite
+add button - npx shadcn@latest add button
